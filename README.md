@@ -3,7 +3,11 @@
 ##Overview
 
 This project was a big change step up from last week since we actually got to design the look of this website.
-I made a wireframe that divides the website into 3 main parts which were the header, bio and content.
+I made a wireframe that divides the website into 3 main parts
+
+-Header 
+-Bio
+-Content
 
 ##Header
 
