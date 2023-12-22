@@ -21,6 +21,6 @@ I decided the bio should be a smaller side bar on the screen so after setting it
 
 My intent going in was to have a picture of the Horiseon website from week 1's challenge with some placeholder images over the contact links but after a lenghty battle with CSS this is what i finished with
 
-## Conclusion
+### Conclusion
 
 This is a project I will going back to complete it the way I had imagined it. Seeing a drawing turn into code and design the look was one of the more enjoyable parts of the course up until this point.
